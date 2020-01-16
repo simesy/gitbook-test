@@ -2,7 +2,11 @@
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+```
+$ sumfin sumfin
+```
+
+This change was made in github directly.
 
 ```
 $ give me super-powers
